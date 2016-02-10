@@ -14,6 +14,7 @@
 		227491F51C6B4046006F0A29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 227491F31C6B4046006F0A29 /* LaunchScreen.storyboard */; };
 		227492001C6B4046006F0A29 /* WordListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227491FF1C6B4046006F0A29 /* WordListTests.swift */; };
 		2274920B1C6B4046006F0A29 /* WordListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2274920A1C6B4046006F0A29 /* WordListUITests.swift */; };
+		227492191C6B40B1006F0A29 /* WordList素材 in Resources */ = {isa = PBXBuildFile; fileRef = 227492181C6B40B1006F0A29 /* WordList素材 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		227492061C6B4046006F0A29 /* WordListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WordListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2274920A1C6B4046006F0A29 /* WordListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordListUITests.swift; sourceTree = "<group>"; };
 		2274920C1C6B4046006F0A29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		227492181C6B40B1006F0A29 /* WordList素材 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "WordList素材"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		227491E91C6B4046006F0A29 /* WordList */ = {
 			isa = PBXGroup;
 			children = (
+				227492181C6B40B1006F0A29 /* WordList素材 */,
 				227491EA1C6B4046006F0A29 /* AppDelegate.swift */,
 				227491EC1C6B4046006F0A29 /* ViewController.swift */,
 				227491EE1C6B4046006F0A29 /* Main.storyboard */,
@@ -234,6 +237,7 @@
 			files = (
 				227491F51C6B4046006F0A29 /* LaunchScreen.storyboard in Resources */,
 				227491F21C6B4046006F0A29 /* Assets.xcassets in Resources */,
+				227492191C6B40B1006F0A29 /* WordList素材 in Resources */,
 				227491F01C6B4046006F0A29 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
